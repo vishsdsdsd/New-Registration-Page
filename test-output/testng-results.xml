@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="17" passed="17">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27077" started-at="2020-10-19T02:49:01Z" finished-at="2020-10-19T02:49:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27077" started-at="2020-10-19T02:49:01Z" finished-at="2020-10-19T02:49:28Z">
+      <class name="com.jbk.RegPage">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.jbk.RegPage@3a82f6ef]" name="openBrowser" is-config="true" duration-ms="11194" started-at="2020-10-19T08:19:01Z" finished-at="2020-10-19T08:19:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="Intiallizaion()[pri:1, instance:com.jbk.RegPage@3a82f6ef]" name="Intiallizaion" duration-ms="158" started-at="2020-10-19T08:19:12Z" finished-at="2020-10-19T08:19:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Intiallizaion -->
+        <test-method status="PASS" signature="regnewdurl()[pri:2, instance:com.jbk.RegPage@3a82f6ef]" name="regnewdurl" duration-ms="546" started-at="2020-10-19T08:19:12Z" finished-at="2020-10-19T08:19:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- regnewdurl -->
+        <test-method status="PASS" signature="Regnewdata()[pri:3, instance:com.jbk.RegPage@3a82f6ef]" name="Regnewdata" duration-ms="2029" started-at="2020-10-19T08:19:13Z" finished-at="2020-10-19T08:19:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Regnewdata -->
+        <test-method status="PASS" signature="Regnewdatamobile()[pri:4, instance:com.jbk.RegPage@3a82f6ef]" name="Regnewdatamobile" duration-ms="1485" started-at="2020-10-19T08:19:15Z" finished-at="2020-10-19T08:19:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Regnewdatamobile -->
+        <test-method status="PASS" signature="Regnewemail()[pri:5, instance:com.jbk.RegPage@3a82f6ef]" name="Regnewemail" duration-ms="1388" started-at="2020-10-19T08:19:16Z" finished-at="2020-10-19T08:19:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Regnewemail -->
+        <test-method status="PASS" signature="RegnewPass()[pri:6, instance:com.jbk.RegPage@3a82f6ef]" name="RegnewPass" duration-ms="1986" started-at="2020-10-19T08:19:18Z" finished-at="2020-10-19T08:19:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegnewPass -->
+        <test-method status="PASS" signature="alldata()[pri:7, instance:com.jbk.RegPage@3a82f6ef]" name="alldata" duration-ms="2439" started-at="2020-10-19T08:19:20Z" finished-at="2020-10-19T08:19:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alldata -->
+        <test-method status="PASS" signature="buttonTxt()[pri:8, instance:com.jbk.RegPage@3a82f6ef]" name="buttonTxt" duration-ms="142" started-at="2020-10-19T08:19:22Z" finished-at="2020-10-19T08:19:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buttonTxt -->
+        <test-method status="PASS" signature="Txtcheck1()[pri:9, instance:com.jbk.RegPage@3a82f6ef]" name="Txtcheck1" duration-ms="111" started-at="2020-10-19T08:19:22Z" finished-at="2020-10-19T08:19:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Txtcheck1 -->
+        <test-method status="PASS" signature="Txtcheck2()[pri:10, instance:com.jbk.RegPage@3a82f6ef]" name="Txtcheck2" duration-ms="95" started-at="2020-10-19T08:19:22Z" finished-at="2020-10-19T08:19:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Txtcheck2 -->
+        <test-method status="PASS" signature="Txtcheck3()[pri:11, instance:com.jbk.RegPage@3a82f6ef]" name="Txtcheck3" duration-ms="78" started-at="2020-10-19T08:19:22Z" finished-at="2020-10-19T08:19:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Txtcheck3 -->
+        <test-method status="PASS" signature="verifyPlaceHoldersmob()[pri:12, instance:com.jbk.RegPage@3a82f6ef]" name="verifyPlaceHoldersmob" duration-ms="179" started-at="2020-10-19T08:19:22Z" finished-at="2020-10-19T08:19:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPlaceHoldersmob -->
+        <test-method status="PASS" signature="verifyPlaceHoldersName()[pri:13, instance:com.jbk.RegPage@3a82f6ef]" name="verifyPlaceHoldersName" duration-ms="66" started-at="2020-10-19T08:19:23Z" finished-at="2020-10-19T08:19:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPlaceHoldersName -->
+        <test-method status="PASS" signature="verifyPlaceHoldersemail()[pri:14, instance:com.jbk.RegPage@3a82f6ef]" name="verifyPlaceHoldersemail" duration-ms="107" started-at="2020-10-19T08:19:23Z" finished-at="2020-10-19T08:19:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPlaceHoldersemail -->
+        <test-method status="PASS" signature="verifyPlaceHolderspass()[pri:15, instance:com.jbk.RegPage@3a82f6ef]" name="verifyPlaceHolderspass" duration-ms="85" started-at="2020-10-19T08:19:23Z" finished-at="2020-10-19T08:19:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPlaceHolderspass -->
+        <test-method status="PASS" signature="verifyGoLinksWithWindowsHandles()[pri:16, instance:com.jbk.RegPage@3a82f6ef]" name="verifyGoLinksWithWindowsHandles" duration-ms="3482" started-at="2020-10-19T08:19:23Z" finished-at="2020-10-19T08:19:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGoLinksWithWindowsHandles -->
+        <test-method status="PASS" signature="mainpgeurl()[pri:17, instance:com.jbk.RegPage@3a82f6ef]" name="mainpgeurl" duration-ms="728" started-at="2020-10-19T08:19:26Z" finished-at="2020-10-19T08:19:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainpgeurl -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:com.jbk.RegPage@3a82f6ef]" name="CloseBrowser" is-config="true" duration-ms="644" started-at="2020-10-19T08:19:27Z" finished-at="2020-10-19T08:19:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- com.jbk.RegPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
